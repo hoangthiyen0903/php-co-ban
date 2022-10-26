@@ -19,5 +19,6 @@ else{
     echo 'Các màu khác';
 }
 // day ko phai la vi du
+// day la vi du
 
 ?>
