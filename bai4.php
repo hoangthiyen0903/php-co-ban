@@ -18,6 +18,6 @@ if ($mau == 'màu vàng'){
 else{
     echo 'Các màu khác';
 }
-
+// day ko phai la vi du
 
 ?>
